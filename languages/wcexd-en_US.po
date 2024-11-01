@@ -1,0 +1,245 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WED\n"
+"POT-Creation-Date: 2016-05-26 13:17+0200\n"
+"PO-Revision-Date: 2016-05-26 13:25+0200\n"
+"Last-Translator: ilGhera <info@ilghera.com>\n"
+"Language-Team: ilGhera <info@ilghera.com>\n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/wed-admin-functions.php:51
+msgid ""
+"Sembra che tu non abbia i permessi sufficienti per visualizzare questa "
+"pagina."
+msgstr "Ops, you have not permissions to do that!"
+
+#: includes/wed-admin-functions.php:63
+msgid "ATTENZIONE! Sembra che Woocommerce non sia installato."
+msgstr "Attention! It seems like Woocommerce is not installed."
+
+#: includes/wed-admin-functions.php:71
+msgid "Woocommmerce Exporter per Danea"
+msgstr "Woocommmerce Exporter for Danea"
+
+#: includes/wed-admin-functions.php:84
+msgid "Premium Key"
+msgstr "Premium Key"
+
+#: includes/wed-admin-functions.php:85
+msgid "Add your Premium Key"
+msgstr "Add your Premium Key"
+
+#: includes/wed-admin-functions.php:86
+msgid ""
+"Incolla qui la Premium Key che hai ricevuto via mail, potrai ricevere gli "
+"ultimi aggiornamenti di <strong>Woocommerce Exporter per Danea - Premium</"
+"strong>."
+msgstr ""
+"Add here the Premium Key that you received by email, you will keep your copy "
+"of <strong>Woocommerce Exporter for Danea - Premium</strong> updated."
+
+#: includes/wed-admin-functions.php:88
+msgid "Salva "
+msgstr "Save"
+
+#: includes/wed-admin-functions.php:105
+msgid "Fornitori"
+msgstr "Suppliers"
+
+#: includes/wed-admin-functions.php:106
+msgid "Prodotti"
+msgstr "Products"
+
+#: includes/wed-admin-functions.php:107
+msgid "Clienti"
+msgstr "Clients"
+
+#: includes/wed-admin-functions.php:108
+msgid "Ordini"
+msgstr "Orders"
+
+#: includes/wed-admin-functions.php:125
+msgid "Esportazione elenco fornitori Woocommerce"
+msgstr "Woocommerce suppliers export"
+
+#: includes/wed-admin-functions.php:126
+msgid ""
+"L'importazione dei fornitori in Danea avviene attraverso l'utilizzo di un "
+"file Excel/ OpenOffice. "
+msgstr ""
+"The import of suppliers in Danea is done by using an Excel/ OpenIffice file."
+
+#: includes/wed-admin-functions.php:127
+msgid "Scegli il ruolo utente Wordpress che identifica i tuoi fornitori"
+msgstr "Choose the Wordpress user role that identifies your suppliers"
+
+#: includes/wed-admin-functions.php:128
+msgid "Scarica l'elenco aggiornato dei tuoi fornitori"
+msgstr "Download your suppliers list"
+
+#: includes/wed-admin-functions.php:129 includes/wed-admin-functions.php:191
+#: includes/wed-admin-functions.php:234
+msgid "Apri e salva il file con uno dei programmi sopra indicati."
+msgstr "Download your suppliers index"
+
+#: includes/wed-admin-functions.php:130
+msgid ""
+"In Danea, vai in \"Fornitori/ Utilità\", scegli \"Importa con Excel/"
+"OpenOffice/LibreOffice\" ed utilizza il file appena creato."
+msgstr ""
+"In Danea, go to \"Fornitori/ Utilità\", choose \"Importa con Excel/"
+"OpenOffice/LibreOffice\" and use the file just created."
+
+#: includes/wed-admin-functions.php:131 includes/wed-admin-functions.php:193
+#: includes/wed-admin-functions.php:236 includes/wed-admin-functions.php:327
+msgid "Per maggiori informazioni, visita questa pagina:"
+msgstr "Need more information? Please, visit this page:"
+
+#: includes/wed-admin-functions.php:142 includes/wed-admin-functions.php:247
+msgid "Ruolo utente :"
+msgstr "User role:"
+
+#: includes/wed-admin-functions.php:172
+msgid "Download elenco fornitori (.csv)"
+msgstr "Download suppliers list (.csv)"
+
+#: includes/wed-admin-functions.php:188
+msgid "Esportazione elenco prodotti Woocommerce"
+msgstr "Export your Woocommerce product list."
+
+#: includes/wed-admin-functions.php:189
+msgid ""
+"L'importazione dei prodotti in Danea avviene attraverso l'utilizzo di un "
+"file Excel/ OpenOffice. "
+msgstr ""
+"The import of products in Danea is done by using an Excel/ OpenIffice file."
+
+#: includes/wed-admin-functions.php:190
+msgid "Scarica l'elenco aggiornato dei tuoi prodotti Woocommerce"
+msgstr "Download your Woocommerce products list"
+
+#: includes/wed-admin-functions.php:192
+msgid ""
+"In Danea, vai in \"Prodotti/ Utilità\", scegli \"Importa con Excel/"
+"OpenOffice/LibreOffice\" ed utilizza il file appena creato."
+msgstr ""
+"In Danea, go to \"Prodotti/ Utilità\", choose \"Importa con Excel/OpenOffice/"
+"LibreOffice\" and use the file just created."
+
+#: includes/wed-admin-functions.php:201
+msgid ""
+"Se utilizzi Woothemes Sensei, potresti voler abbinare ogni prodotto dello "
+"store all'autore (Teacher) del corso ad esso associato, importandolo in "
+"Danea come fornitore."
+msgstr ""
+"If you're using Woothemes Sensei, you may want to link every Woocommerce "
+"product with the Teacher of the course associate."
+
+#: includes/wed-admin-functions.php:209
+msgid "Download elenco prodotti (.csv)"
+msgstr "Download products list (.csv)"
+
+#: includes/wed-admin-functions.php:230
+msgid "Esportazione elenco clienti Woocommerce"
+msgstr "Export your Woocommerce clients list."
+
+#: includes/wed-admin-functions.php:231
+msgid ""
+"L'importazione dei clienti in Danea avviene attraverso l'utilizzo di un file "
+"Excel/ OpenOffice. "
+msgstr ""
+"The import of clients in Danea is done by using an Excel/ OpenIffice file."
+
+#: includes/wed-admin-functions.php:232
+msgid "Scegli il ruolo utente Wordpress che identifica i tuoi clienti"
+msgstr "Choose the Wordpress user role that identifies your clients"
+
+#: includes/wed-admin-functions.php:233
+msgid "Scarica l'elenco aggiornato dei tuoi clienti"
+msgstr "Download your Woocommerce clients list"
+
+#: includes/wed-admin-functions.php:235
+msgid ""
+"In Danea, vai in \"Clienti/ Utilità\", scegli \"Importa con Excel/OpenOffice/"
+"LibreOffice\" ed utilizza il file appena creato."
+msgstr ""
+"In Danea, go to \"Clienti/ Utilità\", choose \"Importa con Excel/OpenOffice/"
+"LibreOffice\" and use the file just created."
+
+#: includes/wed-admin-functions.php:277
+msgid "Download elenco clienti (.csv)"
+msgstr "Download clients list (.csv)"
+
+#: includes/wed-admin-functions.php:315
+msgid "Le informazioni sono state salvate."
+msgstr "All saved."
+
+#: includes/wed-admin-functions.php:321
+msgid "Esportazione elenco ordini Woocommerce"
+msgstr "Export your Woocommerce orders list."
+
+#: includes/wed-admin-functions.php:322
+msgid ""
+"L'importazione degli ordini in Danea avviene attraverso l'utilizzo di un "
+"file xml. "
+msgstr "The import of orders in Danea is done by using a xml file"
+
+#: includes/wed-admin-functions.php:323
+msgid "Scegli un nome per il tuo file xml."
+msgstr "Choose a name for your xml file"
+
+#: includes/wed-admin-functions.php:324
+msgid ""
+"Copia l'indirizzo completo del tuo feed con l'elenco ordini Woocommerce "
+"aggiornato."
+msgstr ""
+"Copy the full url of your feed with your updated Woocommerce orders list "
+
+#: includes/wed-admin-functions.php:325
+msgid "In Danea, scegli \"Scarica ordini\" dal menù \"Strumenti/ E-commerce\""
+msgstr ""
+"In Danea, choose \"Scarica ordini\" from the menu \"Strumenti/ E-commerce\""
+
+#: includes/wed-admin-functions.php:326
+msgid ""
+"Nella finestra seguente, incolla l'indirizzo del tuo elenco ordini in in "
+"\"Impostazioni/ Indirizzo...\""
+msgstr ""
+"In the next window, paste the url of your Woocommerce orders list in "
+"\"Impostazioni/ indirizzo...\""
+
+#: includes/wed-admin-functions.php:334
+msgid "Ordini XML :"
+msgstr "Orders XML:"
+
+#: includes/wed-functions.php:181
+msgid "Verifica aggiornamenti"
+msgstr "Check for updates"
+
+#: includes/wed-functions.php:189
+msgid ""
+"E' installata l'ultima versione di <strong>Woocommerce Exporter for Danea - "
+"Premium</strong>"
+msgstr ""
+" <strong>Woocommerce Exporter for Danea - Premium</strong> is up to date."
+
+#: includes/wed-functions.php:191
+msgid ""
+"E' disponibile una nuova versione di <strong>Woocommerce Exporter for Danea "
+"- Premium</strong>"
+msgstr ""
+"A new version of <strong>Woocommerce Exporter for Danea - Premium</strong> "
+"is available."
+
+#: includes/wed-functions.php:193
+msgid "Si è verificato un errore sconosciuto, si prega di riprovare più tardi."
+msgstr "An error occurred, please try again later."
